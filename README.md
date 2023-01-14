@@ -1,5 +1,5 @@
 ### [cat](https://user-images.githubusercontent.com/111817411/212448065-01402828-841e-476a-b5f7-391cb66205f7.gif)
-                                  Hi there 👋!
+                                                Hi there 👋!
 
 <!--
 **IgorPredko/IgorPredko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
