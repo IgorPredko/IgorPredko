@@ -1,4 +1,6 @@
-### [cat](https://user-images.githubusercontent.com/111817411/212448065-01402828-841e-476a-b5f7-391cb66205f7.gif)
+![cat](https://user-images.githubusercontent.com/111817411/212448184-ebd87c85-9153-446b-8d26-dc320ee95862.gif)
+
+
                                                 Hi there 👋!
 
 <!--
