@@ -1,8 +1,9 @@
 
 
-			       
-![well_HI](https://user-images.githubusercontent.com/111817411/212458071-358f42ab-c40a-44a6-b848-5da1f5c3e26a.gif)
+			  
 
+<!-- ![well_HI](https://user-images.githubusercontent.com/111817411/212458071-358f42ab-c40a-44a6-b848-5da1f5c3e26a.gif) -->
+![cat](https://user-images.githubusercontent.com/111817411/220240641-a7ced344-7585-4d48-aad0-1df7e84c536e.gif)
 <!--
 **IgorPredko/IgorPredko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
