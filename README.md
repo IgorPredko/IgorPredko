@@ -1,5 +1,4 @@
-Hi there!!
-
+Hi there!! Welcome to my page. I'm Web developer from Montreal, CA
 			  
 
 <!-- ![well_HI](https://user-images.githubusercontent.com/111817411/212458071-358f42ab-c40a-44a6-b848-5da1f5c3e26a.gif) -->
